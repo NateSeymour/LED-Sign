@@ -1,0 +1,3 @@
+[submodule "lib/cofgifs"]
+	path = lib/cofgifs
+	url = https://github.com/NateSeymour/cofgifs.git
